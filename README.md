@@ -1,5 +1,5 @@
 # Seal-fishery_proj
-Code from the analysis of Grey Seal tracking/dive behaviour data and Global Fishing Watch fishery data.
+R code from the analysis of Grey Seal tracking/dive behaviour data and Global Fishing Watch fishery data. This study was originally carried out with the following scripts in R V4.4.3 (R Core Team, 2025). 
 
 This is the data and code for:
 
