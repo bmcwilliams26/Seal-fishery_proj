@@ -13,10 +13,15 @@ The grey seal location data and detailed data on individuals presented in this s
 
 # The variables in these datasets were:
 **Seal GPS data:**
+
 Seal_ID: Seal ID based on the species, location and number of previous individuals fitted with tags
+
 D_DATE: Date and time (UTC 0) of the recorded Fastloc GPS location
+
 LAT: Latitude of the Fastloc GPS location (in decimal degrees)
+
 LON: Longitude of the Fastloc GPS location (in decimal degrees)
+
 V_MASK: SMRU filter of the locations. V_Mask=0 is plausible, V_Mask=20 or 50 is rejected due to unrealistic swimming speed (but may still be true when the seal swims in fast tidal currents!), V_Mask=-1 could not be tested due to the lack of previous/next location
 
 
