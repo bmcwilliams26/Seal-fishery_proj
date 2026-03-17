@@ -1,11 +1,12 @@
 # Seal-fishery_proj
-R code from the analysis of Grey Seal tracking/dive behaviour data and Global Fishing Watch fishery data. This study was originally carried out with the following scripts in R V4.4.3 (R Core Team, 2025). 
+R code from the analysis of Grey Seal tracking data and Global Fishing Watch fishery data. This study was originally carried out with the following scripts in R V4.4.3 (R Core Team, 2025). 
 
 This is the data and code for:
 
 
-This repository consists of 5 scripts used for analysis, model summary, and plotting. They are located within the working directory. These scripts include:\
+This repository consists of __ scripts used for ________. These scripts include:
 
 
-The data utilised for this script can be found at .... 
+The grey seal location data and detailed data on individuals presented in this study are publicly accessible on the SEANOE website (https://doi.org/10.17882/89715, https://doi.org/10.17882/98773). Dive behaviour data is not publicly accessible. Fishery data is available from Global Fishing Watch (https://globalfishingwatch.org/map).
+
 The variables in these datasets were .... 
