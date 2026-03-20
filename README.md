@@ -11,7 +11,7 @@ The grey seal location data and detailed data on individuals presented in this s
 
 
 
-# The variables in the seal datasets were:
+## The variables in the seal datasets were:
 **Seal GPS data:**
 
 Seal_ID: Seal ID based on the species, location and number of previous individuals fitted with tags
